@@ -1,16 +1,14 @@
-## Hi there 👋
+# Youssef Hassan
 
-<!--
-**Youssef7assan/Youssef7assan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps and REST APIs with C#, ASP.NET Core, EF Core and SQL Server. I graduated in 2026 and completed the DEPI .NET Development track.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **R3AIA** ([backend](https://github.com/Youssef7assan/R3AIA-PROJECT-APIs) · [frontend](https://github.com/Youssef7assan/r3aia-frontend)): A charitable healthcare platform. I led the graduation project team and worked on the backend. Our team placed third at AZEX'26.
+- **[CashApp](https://github.com/Youssef7assan/CashApp-Manage-wallet)**: A digital wallet management app.
+- **[Auto Parts Sales Management](https://github.com/Youssef7assan/Sales-Management-System-)**: A system for managing auto parts sales.
+- **[E-Tickets](https://github.com/Youssef7assan/eTickets3)**: A cinema ticket booking project in C#.
+- **[PesticideShop](https://github.com/Youssef7assan/PesticideShop)**: An online store project for agricultural supplies.
+- **[Sales Pro](https://github.com/Youssef7assan/Sales_pro-More-than-one-branch)**: A multi-branch sales and inventory management system built with ASP.NET Core MVC.
+
+[Portfolio](https://youssef7assan.github.io) · [LinkedIn](https://www.linkedin.com/in/youssef-hassan11/)
